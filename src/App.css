@@ -1,0 +1,30 @@
+.color1{
+  background-color: antiquewhite;
+}
+.color2{
+  color: antiquewhite;
+}
+.color3{
+  background-color:#61D0D5;
+}
+.gallery_product
+{
+    margin-bottom: 30px;
+}
+.gallery_product .title{
+  color:#5BC3C8;
+  margin: 0;
+  position: absolute;
+  vertical-align: middle;
+  bottom: 55%;
+  left:45%;
+  text-align: center;
+  font-size: 4.5vh
+}
+.oo{
+  width: 100%;
+  height: 20vh;
+}
+.o{
+  font-size: 10px;
+}
